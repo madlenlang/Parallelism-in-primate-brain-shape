@@ -1,5 +1,6 @@
 This repository contains the files used to run the analyses associated with the paper.
 
+
 RUNNING ANALYSES FOLDER (listed alphabetically)
 avg_tree_manual_mean-1000.nex
 Time-calibrated phylogeny for the sample of 167 living and fossil euarchontoglires.
@@ -22,8 +23,8 @@ Surface file of Paraxerus cepapi, representing the species with the average endo
 Spnames.csv
 Alphabetized list of species names (in the same order as in the “EG_Landmarks_Good” folder). Used to overwrite species names and remove the “_Landmarks.landmarkAscii” suffix.
 
-CREATING A TIME-CALIBRATED TREE FOLDER (listed alphabetically)
 
+CREATING A TIME-CALIBRATED TREE FOLDER (listed alphabetically)
 EG-Fossil-Treemaking.R
 R code used to create the time-calibrated phylogenetic tree.
 
