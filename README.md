@@ -2,6 +2,7 @@ This repository contains the files used to run the analyses associated with the 
 
 
 RUNNING ANALYSES FOLDER (listed alphabetically)
+
 avg_tree_manual_mean-1000.nex
 Time-calibrated phylogeny for the sample of 167 living and fossil euarchontoglires.
 
@@ -25,6 +26,7 @@ Alphabetized list of species names (in the same order as in the “EG_Landmarks_
 
 
 CREATING A TIME-CALIBRATED TREE FOLDER (listed alphabetically)
+
 EG-Fossil-Treemaking.R
 R code used to create the time-calibrated phylogenetic tree.
 
